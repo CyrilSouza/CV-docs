@@ -1,0 +1,11 @@
+REQUIREMENT IN OUR CV PROJECT :
+
+
+WE IMPORT SOMR SOME MODULES LIKE 
+from PIL import Image
+import cv2
+import numpy as np
+import requests
+
+
+WE NEDDED A IMAGE THAT HAS A NUMBER OF VEHICLE

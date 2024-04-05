@@ -1,0 +1,77 @@
+REQUIREMENT FOR OUR EXPERIMENT:
+
+1).IN PRACTICAL 1:
+
+import cv2
+
+2).IN PRACTICAL 2:
+
+import cv2
+import numpy as np
+import os
+import glob
+
+
+3).IN PRACTICAL 3:
+
+import cv2
+import numpy as np
+
+
+4).IN PRACTICAL 4:
+
+import cv2 as cv
+from matplotlib import pyplot as plt
+
+
+
+5).IN PRACTICAL 5:
+
+import cv2
+import numpy as np
+from tqdm import tqdm
+
+6).IN PRACTICAL 6:
+
+import matplotlib as plt
+import numpy as np
+import cv2
+
+
+7).IN PRACTICAL 7:
+
+import cv2
+import numpy as np 
+import matplotlib.pyplot as plt 
+from matplotlib.pyplot import imread 
+from mpl_toolkits.mplot3d import Axes3D 
+import scipy.ndimage as ndimage 
+
+
+8).IN PRACTICAL 8:
+
+import cv2
+import numpy as np 
+import matplotlib.pyplot as plt 
+from matplotlib.pyplot import imread 
+from mpl_toolkits.mplot3d import Axes3D 
+import scipy.ndimage as ndimage
+
+9).IN PRACTICAL 9:
+
+import cv2
+import numpy as np 
+import matplotlib.pyplot as plt 
+from matplotlib.pyplot import imread 
+from mpl_toolkits.mplot3d import Axes3D 
+import scipy.ndimage as ndimage 
+
+10).IN PRACTICAL 10:
+
+import cv2
+import numpy as np 
+import matplotlib.pyplot as plt 
+from matplotlib.pyplot import imread 
+from mpl_toolkits.mplot3d import Axes3D 
+import scipy.ndimage as ndimage 
+
